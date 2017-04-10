@@ -1,0 +1,6 @@
+Para importar la base de datos a phpmyadmin
+Solo tienes que crear la base de datos en el phpmyadmin
+Base de datos: "tangotas"
+
+Luego tienes que importar el archivo: tangotas.sql 
+y listo!!!!
